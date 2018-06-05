@@ -7,3 +7,4 @@ end
   end
     if int %3 && %5
       puts "FizzBuzz"
+end
