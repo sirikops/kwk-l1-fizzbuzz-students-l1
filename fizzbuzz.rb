@@ -6,4 +6,4 @@ end
     puts "Buzz"
   end
     if int %3 && %5
-  end
+      puts "FizzBuzz"
